@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/movie-search/',
   plugins: [react(), tailwindcss()],
-  base: "https://github.com/PedroLPMedeiros/movie-search.git",
 })
