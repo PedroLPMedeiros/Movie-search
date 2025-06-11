@@ -3,7 +3,7 @@ Creator: Pedro Lucas Pereira de Medeiros
 API: TMDB
 
 # Movie-search
-A website to see movie recommendations and average rate.
+Esse é o projeto de um site para pesquisa de filmes. Para seu desenvolvimento foram utilizadas as tecnologias React, Tailwind e API do TMDB.
 
 Header: ![alt text](header.png)
 
